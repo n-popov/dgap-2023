@@ -10,3 +10,8 @@
 
 + [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/second)
 + [Задание](https://n-popov.github.io/work/seminars/dgap/third_hw.html)
+
+## Третий семинар
+
++ [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/third)
++ [Задание](https://n-popov.github.io/work/seminars/dgap/fourth_hw.html)
