@@ -15,3 +15,9 @@
 
 + [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/third)
 + [Задание](https://n-popov.github.io/work/seminars/fourth_hw.html)
+
+
+## Третий семинар
+
++ [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/fourth)
++ [Задание](https://n-popov.github.io/work/seminars/fifth_hw.html)
