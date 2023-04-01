@@ -21,3 +21,12 @@
 
 + [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/fourth)
 + [Задание](https://n-popov.github.io/work/seminars/fifth_hw.html)
+
+## Пятый семинар
+
++ [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/fifth)
+
+## Шестой семинар
+
++ [Код с семинара](https://github.com/n-popov/dgap-2023/blob/master/sixth)
++ [Задание](https://n-popov.github.io/work/seminars/dgap/sixth_hw.html)
